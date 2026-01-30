@@ -1,0 +1,2 @@
+# Glossar
+Lorem ipsum dolor
