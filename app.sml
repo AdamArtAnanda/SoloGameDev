@@ -22,6 +22,8 @@ App {
         Chapter {name: "Ein Spiel entsteht nicht – es wächst" src: "wachsen.sml"}    
         Chapter {name: "Tools sind nicht das Problem (aber sie können helfen)" src: "tools.sml"}
         Chapter {name: "Unreal Engine" src: "engine.sml"}
+        Chapter {name: "Die Zeit, in der ich auf Unreal wartete" src: "wartezeit.sml"}
+        Chapter {name: "HCID" src: "hci.sml"}
         Chapter {name: "Agile Publishing (Kurzfassung)" src: "agile.sml"}
         Chapter {name: "Vom Denken ins Machen" src: "denken.sml"}
         Chapter {name: "Das Basisgame (Konzeptuell)" src: "basisgame.sml"}
