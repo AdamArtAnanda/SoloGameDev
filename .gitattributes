@@ -1,2 +1,3 @@
 *.sml linguist-language=QML
+*.sml linguist-detectable=true
 *.md  linguist-detectable=true
