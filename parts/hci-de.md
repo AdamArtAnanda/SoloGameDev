@@ -261,7 +261,20 @@ sondern weil er nicht mehr die Ausdrucksform ist.
 
 ---
 
-TODO: Bild vo Vulkan-Sample
+
+
+
+
+
+
+TODO: Bild vom Vulkan-Sample
+
+
+
+
+
+
+
 
 Abbildung: Screenshot eines Vulkan-Beispiels, das allein für Fenster, Layout, Menü, Toolbar und Statusbar über 1900 Zeilen Code benötigt.
 
